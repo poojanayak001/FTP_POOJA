@@ -3,4 +3,6 @@ apple
 mango
 grapes
 pineapple
-strwaberry
+strawberry
+cherry
+BLUE BERRY
