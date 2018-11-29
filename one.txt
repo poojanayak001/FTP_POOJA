@@ -11,3 +11,7 @@ welcome
 hii
 hello
 aeiou
+<<<<<<< Updated upstream
+=======
+dgdgdv
+>>>>>>> Stashed changes
