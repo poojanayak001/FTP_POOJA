@@ -9,9 +9,4 @@ BLUE BERRY
 ula la ula ula
 welcome 
 hii
-hello
-aeiou
-<<<<<<< Updated upstream
-=======
-dgdgdv
->>>>>>> Stashed changes
+hello world
