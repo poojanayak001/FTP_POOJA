@@ -2,8 +2,4 @@ orange
 apple
 mango
 grapes
-pineapple
-strawberry
-cherry
-BLUE BERRY
-hii pooja
+hii pooja nayak
